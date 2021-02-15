@@ -1,0 +1,7 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\bin\Debug\DuplicateNum.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\bin\Debug\DuplicateNum.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\bin\Debug\DuplicateNum.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\obj\Debug\DuplicateNum.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\obj\Debug\DuplicateNum.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\obj\Debug\DuplicateNum.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\DuplicateNum\DuplicateNum\obj\Debug\DuplicateNum.pdb
