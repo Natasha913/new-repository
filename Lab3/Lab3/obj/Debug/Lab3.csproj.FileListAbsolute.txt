@@ -1,0 +1,2 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache

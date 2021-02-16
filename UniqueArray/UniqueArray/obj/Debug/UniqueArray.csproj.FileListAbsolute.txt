@@ -1,0 +1,7 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\bin\Debug\UniqueArray.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\bin\Debug\UniqueArray.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\bin\Debug\UniqueArray.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\obj\Debug\UniqueArray.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\obj\Debug\UniqueArray.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\obj\Debug\UniqueArray.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\UniqueArray\UniqueArray\obj\Debug\UniqueArray.pdb
