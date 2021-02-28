@@ -1,0 +1,2 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Association\Association\obj\Debug\Association.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Association\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
